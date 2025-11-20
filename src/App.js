@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import DrinkList from "./components/DrinkList";
 import Cart from "./components/Cart";
 import Footer from "./components/Footer";
-import "./Index.css";
+import "./index.css";
 
 function App() {
   const [cart, setCart] = useState(() => {
